@@ -2,3 +2,4 @@ indkøbsliste
 tomater
 agurk
 mælkesnitter
+kattemad
