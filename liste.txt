@@ -2,4 +2,8 @@ indkøbsliste
 tomater
 agurk
 mælkesnitter
+<<<<<<< HEAD
 ost
+=======
+kattemad
+>>>>>>> f4
